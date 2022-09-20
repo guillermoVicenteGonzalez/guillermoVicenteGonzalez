@@ -1,6 +1,7 @@
+<!--
 I'm a software engineering student at "Universidad de Salamanca". I'm currently in formation so i have no area of expertise, though i am interested in a lot of areas such as Iot, systems administration, domotics and game dev, and familiar with front and back end development
 
-<!--
+
 **guillermoVicenteGonzalez/guillermoVicenteGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
