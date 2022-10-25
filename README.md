@@ -36,7 +36,7 @@ I am a computer science student at usal. As a student, my experience is limited 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=guillermoVicenteGonzalez&langs_count=10&theme=radical&hide=ShaderLab&layout=compact)](https://github.com/anuraghazra/github-readme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=guillermoVicenteGonzalez&langs_count=10&theme=radical&hide=ShaderLab,HLSL&layout=compact)](https://github.com/anuraghazra/github-readme)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillermoVicenteGonzalez&show_icons=true&theme=radical)
   
