@@ -1,10 +1,11 @@
-
+<div style="background:red">
 <div id="header" align="center">
   <h1>Hello there</h1>
 </div>
 
 ## :technologist: About Me:
 I am a computer science student at usal. As a student, my experience is limited but my interest range from domotics and iot, to fullstack web developpement going through game dev
+  
 
 ## Technologies
 
@@ -38,4 +39,6 @@ I am a computer science student at usal. As a student, my experience is limited 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=guillermoVicenteGonzalez&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillermoVicenteGonzalez&show_icons=true&theme=radical)
+  
 
+</div>
