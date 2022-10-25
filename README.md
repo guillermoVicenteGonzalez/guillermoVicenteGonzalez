@@ -5,7 +5,6 @@
 
 ## :technologist: About Me:
 I am a computer science student at usal. As a student, my experience is limited but my interest range from domotics and iot, to fullstack web developpement going through game dev
-  
 
 ## Technologies
 
