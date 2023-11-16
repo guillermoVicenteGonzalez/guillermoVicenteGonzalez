@@ -4,7 +4,7 @@
 </div>
 
 ## :technologist: About Me:
-I'm a computer science graduate currently working as a junior front end engineer. 
+I'm a computer science graduate currently working as a junior front end engineer. <br>
 In spite of my job description, my goal is to become a full fledged full stack engineer, and although my area of expertise is web developement I'm also an anthusiast of game developement, domotics and many more.
 
 ## Technologies
