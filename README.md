@@ -4,7 +4,8 @@
 </div>
 
 ## :technologist: About Me:
-I am a computer science student at usal. As a student, my experience is limited but my interests range from domotics and iot, to fullstack web developpement going through game dev
+I'm a computer science graduate currently working as a junior front end engineer. 
+In spite of my job description, my goal is to become a full fledged full stack engineer, and although my area of expertise is web developement I'm also an anthusiast of game developement, domotics and many more.
 
 ## Technologies
 
