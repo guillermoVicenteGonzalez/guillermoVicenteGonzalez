@@ -1,11 +1,15 @@
-<div style="background:red">
-<div id="header" align="center">
-  <h1>Hello there</h1>
+<div>
+<div align="center">
+  <h1>Hi! I'm Guillermo, a software engineer.</h1>
 </div>
 
 ## :technologist: About Me:
-I'm a computer science graduate currently working as a junior front end engineer. <br>
-In spite of my job description, my goal is to become a full fledged full stack engineer, and although my area of expertise is web developement I'm also an anthusiast of game developement, domotics and many more.
+
+<p>My main area of expertise is web developement, where i lean more towards front-end (although i'm fairly capable at backend and devops too).
+Video games have always been my passion and in my free time a do a little gamedev using the godot engine, although i've used unity in the past.</p>
+<p>Other topics i'm interested at are domotics, linux and open source,  and destkop UI programming (GTK/QT...), althought i'm always learning and trying to broaden my knowledge and improve my skills</p>
+<p>I'm also a (bad) musician :guitar: 🪗</p>
+
 
 ## Technologies
 
